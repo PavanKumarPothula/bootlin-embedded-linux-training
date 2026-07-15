@@ -4,8 +4,8 @@ Started: ____-__-__
 
 ## Week 1 — Foundations: Toolchain, Boot, Kernel
 
-- [ ] Introduction to embedded Linux (slides)
-- [ ] Cross-compiling toolchain and C library (slides)
+- [X] Introduction to embedded Linux (slides)
+- [X] Cross-compiling toolchain and C library (slides)
 - [ ] Cross-compiling toolchain with Crosstool-NG (lab)
 - [ ] Boot process, firmware, bootloaders (slides)
 - [ ] Bootloader and U-Boot (lab)
