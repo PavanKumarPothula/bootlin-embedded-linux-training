@@ -6,8 +6,8 @@ Started: ____-__-__
 
 - [X] Introduction to embedded Linux (slides)
 - [X] Cross-compiling toolchain and C library (slides)
-- [ ] Cross-compiling toolchain with Crosstool-NG (lab)
-- [ ] Boot process, firmware, bootloaders (slides)
+- [X] Cross-compiling toolchain with Crosstool-NG (lab)
+- [X] Boot process, firmware, bootloaders (slides)
 - [ ] Bootloader and U-Boot (lab)
 - [ ] Linux kernel: versions, sources, fetching (slides)
 - [ ] Configuring, compiling and booting the kernel (slides)
