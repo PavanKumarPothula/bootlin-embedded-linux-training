@@ -1,0 +1,2 @@
+cmd/mii.c:163:13:dump_field	16	static
+cmd/mii.c:281:12:do_mii	112	static

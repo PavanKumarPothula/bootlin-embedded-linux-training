@@ -1,0 +1,8 @@
+drivers/serial/serial_pl01x.c:224:12:pl01x_serial_getc	0	static
+drivers/serial/serial_pl01x.c:238:12:pl01x_serial_tstc	0	static
+drivers/serial/serial_pl01x.c:190:13:pl01x_serial_init_baud	24	static
+drivers/serial/serial_pl01x.c:209:5:pl01x_serial_init	8	static
+drivers/serial/serial_pl01x.c:243:13:pl01x_serial_setbrg	0	static
+drivers/serial/serial_pl01x.c:216:13:pl01x_serial_putc	0	static
+drivers/serial/serial_pl01x.c:267:6:pl01x_serial_initialize	0	static
+drivers/serial/serial_pl01x.c:272:30:default_serial_console	0	static

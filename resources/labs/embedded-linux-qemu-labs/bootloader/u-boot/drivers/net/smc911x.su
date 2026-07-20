@@ -1,0 +1,15 @@
+drivers/net/smc911x.c:601:12:smc911x_of_to_plat	24	static
+drivers/net/smc911x.c:581:12:smc911x_bind	0	static
+drivers/net/smc911x.c:52:12:smc911x_reg_read	0	static
+drivers/net/smc911x.c:61:13:smc911x_reg_write	0	static
+drivers/net/smc911x.c:71:12:smc911x_get_mac_csr	16	static
+drivers/net/smc911x.c:568:12:smc911x_read_rom_hwaddr	24	static
+drivers/net/smc911x.c:586:12:smc911x_probe	16	static
+drivers/net/smc911x.c:83:13:smc911x_set_mac_csr	16	static
+drivers/net/smc911x.c:166:13:smc911x_handle_mac_address	16	static
+drivers/net/smc911x.c:120:13:smc911x_reset	16	static
+drivers/net/smc911x.c:538:13:smc911x_stop	8	static
+drivers/net/smc911x.c:555:12:smc911x_recv	32	static
+drivers/net/smc911x.c:545:12:smc911x_send	32	static
+drivers/net/smc911x.c:216:12:smc911x_eth_phy_write.constprop.isra	16	static
+drivers/net/smc911x.c:528:12:smc911x_start	16	static

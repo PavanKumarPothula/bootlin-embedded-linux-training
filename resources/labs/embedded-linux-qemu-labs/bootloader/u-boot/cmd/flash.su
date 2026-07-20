@@ -1,0 +1,9 @@
+cmd/flash.c:193:1:flash_fill_sect_ranges	32	static
+cmd/flash.c:271:12:do_flinfo	8	static
+cmd/flash.c:49:1:abbrev_spec.constprop	48	static
+cmd/flash.c:97:5:flash_sect_roundb	16	static
+cmd/flash.c:152:1:addr_spec	32	static
+cmd/flash.c:395:5:flash_sect_erase	64	static
+cmd/flash.c:300:12:do_flerase	40	static
+cmd/flash.c:594:5:flash_sect_protect	72	static
+cmd/flash.c:432:12:do_protect	64	static
